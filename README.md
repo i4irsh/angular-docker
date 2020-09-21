@@ -8,6 +8,6 @@ Run `docker build -t angular-docker .` to build the Docker image.
 
 Run `docker run -d -it -p 4100:80 angular-docker` to run.
 
-## npm run 
+## Docker run
 
-`npm run docker`
+`yarn run docker`
