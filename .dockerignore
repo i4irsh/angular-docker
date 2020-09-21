@@ -1,0 +1,10 @@
+dist
+e2e
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+.vscode
+docker-compose*
+Dockerfile*
